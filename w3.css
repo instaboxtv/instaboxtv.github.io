@@ -84,11 +84,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-cell-top{vertical-align:top}.w3-cell-middle{vertical-align:middle}.w3-cell-bottom{vertical-align:bottom}
 @media (orientation: portrait) {
   body {
-    -webkit-transform: rotate(-90deg);
-    -moz-transform: rotate(-90deg);
-    -o-transform: rotate(-90deg);
-    -ms-transform: rotate(-90deg);
-    transform: rotate(-90deg);
+    -webkit-transform: rotate(-0deg);
+    -moz-transform: rotate(-0deg);
+    -o-transform: rotate(-0deg);
+    -ms-transform: rotate(-0deg);
+    transform: rotate(-0deg);
   }
 }
 .w3-hide{display:none!important}.w3-show-block,.w3-show{display:block!important}.w3-show-inline-block{display:inline-block!important}
